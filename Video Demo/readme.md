@@ -59,7 +59,7 @@ Feel free to ⭐ star the repo if you found it interesting or helpful!
 
 If you have any questions or feedback, feel free to reach out:
 
-- 📧 Email: [reiincarnatiion@gmail.com]
+- 📧 [Email](mailto:saireddy.annamareddy@gmail.com)
 - 💬 GitHub Discussions / Issues: [Open an Issue](https://github.com/SaiReddyA-1/EduTutor-AI__personalized-learning-with-generative-ai-and-lms-integration/issues)
 
 ---
