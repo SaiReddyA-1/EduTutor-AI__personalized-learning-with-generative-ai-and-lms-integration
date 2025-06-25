@@ -1,1 +1,1 @@
-# edututor-ai-personalized-learning-with-generative-ai-and-lms-integration
+# Edututor-ai-personalized-learning-with-generative-ai-and-lms-integration
